@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installation2222"
-date: @today
+date: 2022-12-25
 description: Here i am trying to add a post using a tag i just added
 tags: 
  - newtag
