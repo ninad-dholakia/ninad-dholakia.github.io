@@ -1,4 +1,4 @@
-layout 	tag
-tag_index
-	
-code
+---
+layout: tag_index
+tag: newtag
+---
