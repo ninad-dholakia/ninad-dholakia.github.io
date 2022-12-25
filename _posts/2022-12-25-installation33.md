@@ -7,6 +7,7 @@ tags:
  - installation
  - newtag
  - musings
+ - tags
 
 ---
 
