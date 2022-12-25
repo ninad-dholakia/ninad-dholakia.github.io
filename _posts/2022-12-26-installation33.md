@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Installation33"
+title: "Installation33idk"
 date: 2022-12-26
 description: Adding 2nd post
 tags: 
  - installation
+ - tags
 ---
 
-## Installation333
+## Installation333idk
 
 If you dont't have your own blog you can clone this repository and put your articles in a `_posts` folder.
 If you already have your own blog then I think you can clone this repository and copy-paste content keeping your `_posts` folder
