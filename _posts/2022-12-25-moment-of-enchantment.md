@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Moment of Enchantement"
+date: 2022-12-25
+description:
+tags: 
+ - musings
+---
+Have you seen a child laugh and play? I bet you have. I had my moment of enchantment today. A buzzy little youngling from my neighborhood came up to me, covered all in joyful laughter and wearing a charmed smile on his face. He uttered some syllables in an unclear tone. But with his bright young face even those - clumsy put together - words, sounded like melodious symphonies.  
+
+The happiness one gets when one sees a child full of life - smiling, enjoying and giggling around for no reason, just happy to be, happy to walk, happy to run around and play, is priceless. That emotion - a bliss, a unique and fascinating innocence and simplicity of life makes one introspect. Makes one think about the rat race that life slowly transforms into. All the pride, envy, anxiety and greed just wither away for some brief moments when one sees such child all in cheerful wonder. And life seems as happening and as fruitful as ever, in that moment. The moment of enchantment. The moment when life seems worthy of leaving a legacy behind. The moment when mother nature seems happy, and god, if she is up there somewhere, in the high of heavens, seems to be pleased. 
+
+But then you are, off course, reminded of the fact that you have forgotten how to live. You are reminded that all your achievements bring you joy, not as pure as you saw on the child's face. Why? Perhaps because that laughter on his face had no sound reason to be there. It was just his normal state. The state of being happy for no apparent reason. The child does not need an achievement to enjoy. They do not crave validation for anything. They just need some whimsical prompt in their little, innocent mind. A prompt of elation, a whisper of delight. Its more than enough to have them rejoice the beauty that is life! 
