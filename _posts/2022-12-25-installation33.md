@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Moment of Enchantment"
+title: "2nd test post"
 date: 2022-12-25
 description: Adding 2nd post
 tags: 
  - installation
- - tags
  - newtag
+ - musings
 
 ---
 
