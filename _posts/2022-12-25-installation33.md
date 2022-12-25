@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installation33idk"
-date: 2022-12-26
+date: 2022-12-25
 description: Adding 2nd post
 tags: 
  - installation
