@@ -1,7 +1,8 @@
 # Jekyll configuration
 
 name: The Audacity of Thought
-description: (Yup, totally took the header idea from Obama) Trying to make sense of this existence. Thoughts on a variety of things i like to read and write about. Take a look at the categories and see if we resonate on something. Do leave your thoughts in comments if you like anything.
+description: (Yup, totally took the header idea from Obama)
+Trying to make sense of this existence. Thoughts on a variety of things i like to read and write about. Take a look at the categories and see if we resonate on something.
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://ninad-dholakia.github.io
@@ -14,15 +15,16 @@ author: Ninad Dholakia
 copyright: 2023
 
 share:
-  facebook: false
+  facebook: true
   twitter: true
-  gplus: false
-  linkedin: false
-  pinterest: false
-  email: false
+  gplus: true
+  linkedin: true
+  pinterest: true
+  email: true
 
 social:
-  github: streetturtle
+  github: ninad-dholakia
+  twitter: @ssly_funny
   stackoverflow: ''
   linkedin:
   instagram: ''
