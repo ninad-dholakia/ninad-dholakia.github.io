@@ -10,16 +10,16 @@ url: http://ninad-dholakia.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Ninad Dholakia
+copyright: 2023
 
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
   github: streetturtle
